@@ -12,7 +12,7 @@ The Otaku x402 plugin enables ElizaOS AI agents to:
 - 📊 **Provide buy/sell/hold recommendations** with confidence scores
 - 🏆 **Track top traders** and their performance metrics
 - 🔥 **Monitor hot tokens** with real-time volume and trade data
-- 💰 **Monetize data access** via X402 micropayments protocol
+- 💰 **Monetize data access** via X402 micropayments protocol.
 
 ## Features
 
